@@ -4,7 +4,7 @@ When starting locally, this app uses port 8087, if that is already taken in your
 
 
 ERD:
-![image](https://github.com/HRTBCP/Music/assets/40878060/61e5eeba-6d0a-4507-a8a3-4cbe0f669ad6)
+![image](https://github.com/Plant-Food-Research-Open/JavaDeveloperTest/assets/40878060/adbb47c2-1f31-4bee-868a-862f25f22189)
 
 
 ### API Documentation
