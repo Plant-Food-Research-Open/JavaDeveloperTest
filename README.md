@@ -21,7 +21,7 @@ ERD:
 
 ** Use projections to get more details in the response
 * http://localhost:8087/music/cds?projection=cdDetails
-* http://localhost:8087/music/artists/<artistid>/cds?projection=cdDetails
+* http://localhost:8087/music/artists/{artistid}/cds?projection=cdDetails
 
 __Available projections:__
 * artistDetails
